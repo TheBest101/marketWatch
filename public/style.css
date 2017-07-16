@@ -1,0 +1,22 @@
+body {
+  background: #2E2E2E;
+}
+
+.box {
+  height: 200px;
+  padding: 10px 25px;
+}
+
+.inner-box {
+  padding: 10px;
+  background: white;
+  height: 100%;
+  border-left: 6px solid #4B515D;
+}
+
+#inner-box-submit {
+  padding: 10px;
+  background: white;
+  height: 100%;
+  border-left: 6px solid #00C851;
+}
