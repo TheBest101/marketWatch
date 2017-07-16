@@ -42,7 +42,7 @@ function update (data) {
         name: json["Meta Data"]["2. Symbol"],
         data: json["Time Series (Daily)"]
       }
-      if(data.length -1 === i) {
+      if(data.length === i) {
         updateGraph(data)
       }
     })
